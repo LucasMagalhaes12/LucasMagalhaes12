@@ -7,11 +7,11 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmagalhaes12) -->
 
-## Redes sociais:
+## 🧟 Redes sociais:
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasMagalhaes12)
 [![llinkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-magalhães-73a3ba198)
 
-## Sistema Operacional:
+## 🖥️ Sistema Operacional:
 <div style="display: inline_block">
 <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img align="center" alt="gnubash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
@@ -22,7 +22,7 @@
 <img align="center" alt="popOS" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
 </div>
 
-## Tecnologias:
+## ⌨️ Tecnologias:
 <div style="display: inline_block">
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
